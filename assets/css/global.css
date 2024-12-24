@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+:root {
+    --black: #000000;
+    --white: #fff;
+    --gray: #9CA3AF;
+    --blue: #1371EF;
+    --pink: #E539A2;
+}
+
+body {
+    background-color: var(--black);
+}
